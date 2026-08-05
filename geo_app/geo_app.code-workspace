@@ -1,0 +1,46 @@
+{
+    "folders": [
+        {
+            "path": "docs"
+        },
+        {
+            "path": ".venv"
+        },
+        {
+            "path": "__pycache__"
+        },
+        {
+            "path": "api"
+        },
+        {
+            "path": "config"
+        },
+        {
+            "path": "data_output"
+        },
+        {
+            "path": "geo_app.egg-info"
+        },
+        {
+            "path": "models"
+        },
+        {
+            "path": "repositories"
+        },
+        {
+            "path": "schemas"
+        },
+        {
+            "path": "services"
+        },
+        {
+            "path": "static"
+        },
+        {
+            "path": "templates"
+        },
+        {
+            "path": "utils"
+        }
+    ]
+}
