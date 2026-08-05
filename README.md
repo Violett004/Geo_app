@@ -1,6 +1,6 @@
 # Geo_app
 
-#1
+1
 W 1 terminalu
 cd frontend
 npm i
