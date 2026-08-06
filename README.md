@@ -5,7 +5,7 @@ Aplikacja webowa (FastAPI + Angular) do automatycznego pozyskiwania, przetwarzan
 
 ---
 
-## 🛠️ Technologie
+## Technologie
 
 * **Backend:** Python 3.11, FastAPI, SQLAlchemy (SQLite), APScheduler
 * **Frontend:** Angular 17+ (Standalone Components), Leaflet.js (Mapa interaktywna)
